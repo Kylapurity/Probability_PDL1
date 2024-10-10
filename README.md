@@ -8,3 +8,4 @@ The members and their contributions:
 - Gatete Jules: Worked on the slides 
 - Purity Kihiu: Worked on the plotting of the graph
 
+# Link  to the slide https://docs.google.com/presentation/d/1wnN6-9tMe_YAkcfkIDnc0gNsNw97UpYdO9UvGREVPsI/edit#slide=id.p
