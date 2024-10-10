@@ -9,3 +9,4 @@ The members and their contributions:
 - Purity Kihiu: Worked on the plotting of the graph
 
 ### Link  to the slide https://docs.google.com/presentation/d/1wnN6-9tMe_YAkcfkIDnc0gNsNw97UpYdO9UvGREVPsI/edit#slide=id.p
+### Link  to the slide https://youtu.be/Eieq19hQkCg?si=PkVj86H13NtlISTD
